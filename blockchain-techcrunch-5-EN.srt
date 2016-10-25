@@ -1,0 +1,392 @@
+﻿1
+00:00:00,001 --> 00:00:09,147
+Ethereum was built to be
+a sort of new and improved version of Bitcoin
+
+2
+00:00:09,172 --> 00:00:13,181
+and to do things Bitcoin couldn't do
+
+3
+00:00:13,206 --> 00:00:20,794
+Original aim of Ethereum was to create 
+not just a decentralized money
+
+4
+00:00:20,819 --> 00:00:25,575
+but essentially a decentralized gloal computer
+
+5
+00:00:25,600 --> 00:00:29,732
+that could do computational problems
+
+6
+00:00:29,758 --> 00:00:34,474
+Ethereum has its own currency Ether
+
+7
+00:00:34,499 --> 00:00:39,719
+The Ether are really there to service as a sort-of gas
+
+8
+00:00:39,744 --> 00:00:47,382
+for the computations that are going on
+on this  network  of computers that run Ethereum
+
+9
+00:00:49,021 --> 00:00:53,048
+TRUST DISRUPTED
+BITCOIN AND THE BLOCKCHAIN
+TechCrunch  Originals
+
+10
+00:00:55,774 --> 00:00:58,721
+5. Ethereum's Blockchain
+
+11
+00:00:58,746 --> 00:01:01,128
+July 30,2015: Release date of the first live version of Ethereum
+
+12
+00:01:01,153 --> 00:01:03,224
+July 30,2015: Release date of the first live version of Ethereum
+$160 Million : Peak value of Ether raised by the Decentralized Autonomous Organization(DAO)
+
+13
+00:01:03,249 --> 00:01:12,842
+July 30,2015: Release date of the first live version of Ethereum
+$160 Million : Peak value of Ether raised by the Decentralized Autonomous Organization(DAO)
+$50 Million : Value of Ether stolen in a hack on the DAO
+
+14
+00:01:20,291 --> 00:01:23,910
+The original reason I like the name is that Ether was
+
+15
+00:01:23,935 --> 00:01:29,446
+This is a sort of thing  the scientist hypothsizing about it  in 19 century
+
+16
+00:01:29,471 --> 00:01:34,375
+VITALIK BUTERIN, FOUNDER ETHEREUM,TORONTO MOSCOW SHANGHAI
+people are thinking ****travels through water
+so what the light waves travel through
+
+17
+00:01:34,461 --> 00:01:38,816
+They hypothize the existence of medium  kind-of 
+permeats the entire universe
+
+18
+00:01:38,841 --> 00:01:42,135
+That in itself is  a kind of invisible
+
+19
+00:01:42,160 --> 00:01:44,760
+but It provides us kind-of a global reference frame.
+
+20
+00:01:44,785 --> 00:01:47,726
+It is in some sense ,you-know,sort-of the base the universe runs on.
+
+21
+00:01:47,777 --> 00:01:51,333
+And actually I felt that was kind-of fitting analogy for what I wanted to do
+
+22
+00:01:54,674 --> 00:01:57,856
+Bitcoin has the wrong apprach.
+
+23
+00:01:57,881 --> 00:02:03,311
+I would say Ethereum boasts features and oppotunitues 
+to do the thing Bitcoin doesn't .
+
+24
+00:02:03,336 --> 00:02:08,361
+It's like saying that a telephone can beat an orange.
+
+25
+00:02:17,796 --> 00:02:21,010
+JOSEPH LUBIN, FOUNDER CONSENSYS,ETHEREUM CONSULTING FIRM,NEW YORK
+
+Ethererum is a decentralized application platform.
+
+26
+00:02:21,035 --> 00:02:27,958
+Its parent ,Bitcoin,
+is more of a platform
+
+27
+00:02:27,983 --> 00:02:30,642
+for transmision and storage of value
+
+28
+00:02:30,667 --> 00:02:37,466
+So Bitcoin was essentially an experiment 
+in monetary theory gone wildly successfull
+
+29
+00:02:37,491 --> 00:02:40,386
+You can think of ethereum as the decentralized world wide web.
+
+30
+00:02:40,412 --> 00:02:45,614
+It will eventually be able to run all the different
+kinds of applications
+
+31
+00:02:45,639 --> 00:02:48,073
+that we see on the World wide web
+
+32
+00:02:48,098 --> 00:02:54,670
+The end of the day , it's kind-of fabric for 
+**** you could almost 
+describe it as a new Internet Infrastructure
+
+33
+00:02:54,695 --> 00:02:57,289
+Eventually it runs facebook-like application
+
+34
+00:02:57,314 --> 00:03:00,372
+All the differences that would be Peer-to-Peer
+
+35
+00:03:00,397 --> 00:03:04,170
+decentralized  rather than server-client type architecture
+
+36
+00:03:04,195 --> 00:03:09,868
+ownership of data , ownership of communication or informational emissions
+
+37
+00:03:09,893 --> 00:03:15,026
+will rest with  the users of the system rather than
+owners like  the company like Facebook
+
+38
+00:03:15,053 --> 00:03:18,982
+I think Vitalik knows what he is building
+
+39
+00:03:19,007 --> 00:03:24,596
+a giant globally distributed re-programable supercomputer
+
+40
+00:03:24,620 --> 00:03:27,505
+on the  scale of the mankind never seen before
+
+41
+00:03:27,530 --> 00:03:30,335
+And he is doing  it through a mechanism
+
+42
+00:03:30,958 --> 00:03:35,521
+which initially supports this concept of  Smart Contracts
+
+43
+00:03:35,546 --> 00:03:37,386
+and issues a token  just like Bitcoin
+
+44
+00:03:37,412 --> 00:03:40,371
+So there is a value being created by the  mining that we are doing.
+
+45
+00:03:40,396 --> 00:03:44,847
+THe biggest differences that ethererum produces mines
+
+46
+00:03:44,872 --> 00:03:50,647
+that are reprogramable to tasks 
+that we dont nessesary know what they are gonna do yet
+
+47
+00:03:50,672 --> 00:03:54,443
+One of the highest ambitions of  Ethereum from the beginning
+
+48
+00:03:54,468 --> 00:04:00,329
+was that you would actually be able to 
+program
+
+49
+00:04:00,354 --> 00:04:04,727
+the functioning of entire corporations
+
+50
+00:04:04,752 --> 00:04:07,649
+into this global computer
+
+51
+00:04:07,674 --> 00:04:14,413
+And You would have not just
+a decentralized currency
+but decentralized company
+
+52
+00:04:14,438 --> 00:04:19,446
+that would run according to the rules
+ that you have programed into this network
+
+53
+00:04:19,471 --> 00:04:28,660
+so there was always this idea
+that Ethereum might allow
+what people called Decentralized Autonomous Organization
+
+54
+00:04:28,685 --> 00:04:31,005
+So Decentralized Autonomous Organization ,
+
+55
+00:04:31,030 --> 00:04:35,688
+This idea that you can have kind-of *automatons* 
+that are written in code  that set on the blockchain
+
+56
+00:04:35,713 --> 00:04:38,104
+in that , you govern through smart contracts,
+
+57
+00:04:38,129 --> 00:04:43,841
+could be like some voting mechanism,
+could be voting by projection markets 
+or some other new thing
+
+58
+00:04:43,866 --> 00:04:49,274
+would be sort-of a company that would be run
+not according to human decision making
+
+59
+00:04:49,299 --> 00:04:55,692
+and human rules ,but  Instead  according to rules that you programed into Ethereum network.
+
+60
+00:04:55,717 --> 00:05:00,954
+It can actually  leave the decision making up to an Artificial Inteligence
+
+61
+00:05:00,979 --> 00:05:04,734
+So if you would have a board ,you can basically say ,hey we  can't come to the consensus
+
+62
+00:05:04,759 --> 00:05:07,539
+so, let's just refer this to AI
+
+63
+00:05:07,564 --> 00:05:12,097
+and everyone just delegates the roles to robots and robots make decision for them
+
+64
+00:05:12,122 --> 00:05:16,432
+then eventually you can imagin that many boards are just run by AI.
+
+65
+00:05:16,457 --> 00:05:18,413
+and occationally intervene by humans
+
+66
+00:05:18,437 --> 00:05:23,916
+DAO attracted something like 150 million dollars
+
+67
+00:05:23,942 --> 00:05:26,429
+in the cource of a little over a month
+
+68
+00:05:26,454 --> 00:05:31,434
+basically on the first days that it was operational
+
+69
+00:05:31,459 --> 00:05:38,222
+you had this attacker who came in and manged 
+to take advantage of the contracts in a way
+
+70
+00:05:38,247 --> 00:05:45,561
+that basically siphoned about the half of the money into an account under the control of the attacker
+
+71
+00:05:45,586 --> 00:05:48,910
+one saving grace in this attack
+
+72
+00:05:48,938 --> 00:05:51,668
+was that money that was siphoned off
+
+73
+00:05:51,694 --> 00:05:58,547
+because of the way the DAO was written
+couldn't  be used for 30days
+
+74
+00:05:58,576 --> 00:06:02,481
+so begun this countdown
+
+75
+00:06:02,506 --> 00:06:09,709
+to try to figure out how to stop the attacker from getting control of 60 million dollars
+
+76
+00:06:09,734 --> 00:06:15,473
+so we have this time in order to see to determine
+ whether we gonna do something about it or where we just going to let it.
+
+77
+00:06:15,497 --> 00:06:22,733
+I dont think that Ethereum  has the balls to leave the fact as is.
+
+78
+00:06:22,758 --> 00:06:29,664
+are you hard-forking the entire blockchain?
+
+79
+00:06:29,689 --> 00:06:35,243
+It set off this really pertty philosophical debate about
+
+80
+00:06:35,268 --> 00:06:38,522
+how to deal with the problem like this
+
+81
+00:06:38,548 --> 00:06:43,667
+in the realm of smart contracts and virtual currency
+
+82
+00:06:43,692 --> 00:06:49,931
+you see, one of the great attractions of the blockchain technology
+and Bitcoin and Ethereum was
+
+83
+00:06:49,956 --> 00:06:54,958
+was that this record of transactions going back in time could never been changed
+
+84
+00:06:54,983 --> 00:06:57,512
+that is one of the reason that this is  so valuable
+
+85
+00:06:57,537 --> 00:07:04,922
+you could look back and know that a transction happned
+know that nobody could temper with that ,nobody could change it
+
+86
+00:07:04,947 --> 00:07:10,091
+once you had a DAO , people wanted to go back and change this contract
+
+87
+00:07:10,116 --> 00:07:13,644
+so that the person who seized all this money
+
+88
+00:07:13,670 --> 00:07:16,536
+that those transactions wouldn't be valid
+
+89
+00:07:16,561 --> 00:07:22,167
+but it struck at the very core of what the Ethereum was supposed to be.
+

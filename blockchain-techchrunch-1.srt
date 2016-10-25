@@ -1,0 +1,495 @@
+﻿1
+00:00:00,001 --> 00:00:03,302
+NATHANIEL POPPER , AUTHOR OF  DIGITAL COLD,REPORTER, NEW YORK TIMES ,SAN FRANSISCO
+
+2
+00:00:03,327 --> 00:00:09,043
+Bitcoin first emerged in 2008.
+The initial paper and software
+
+3
+00:00:09,386 --> 00:00:13,370
+came from someone going by the name of Satoshi Nakamoto.
+
+4
+00:00:13,428 --> 00:00:16,635
+The idea behind the system was
+
+5
+00:00:16,660 --> 00:00:22,366
+that it would be a final network outside of the control of government.
+
+6
+00:00:22,391 --> 00:00:25,539
+outside of control of Banks.
+
+7
+00:00:25,564 --> 00:00:30,575
+And it would do this by creating a sort of network.
+
+8
+00:00:30,600 --> 00:00:37,111
+much like the internet that was run by people actually using the currency.
+
+9
+00:00:37,136 --> 00:00:43,822
+in 2011, a series of booms and busts overtook
+
+10
+00:00:43,847 --> 00:00:47,630
+the bitcoin and brought it into public consciousness.
+
+11
+00:00:47,655 --> 00:00:55,080
+Like any utopian technology, bitcoin has  really run up against
+
+12
+00:00:55,105 --> 00:00:59,219
+the outer limits of what it's trying to do.
+
+13
+00:00:59,244 --> 00:01:01,665
+as it has  spread around the world.
+
+14
+00:01:02,359 --> 00:01:06,874
+TRUST DISRUPTED
+BITCOIN AND THE BLOCKCHAIN
+TechCrunch Originals
+
+15
+00:01:07,931 --> 00:01:12,748
+1. In the Begining
+
+16
+00:01:13,894 --> 00:01:18,940
+january 3,2009 : Date first Bitcoins released
+
+17
+00:01:18,965 --> 00:01:24,317
+january 3,2009: Date first Bitcoins released
+ 2140: year that last Bitcoin will be released.
+
+18
+00:01:33,272 --> 00:01:37,846
+Bitcoin Mine
+Undisclosed Location
+Caracas, Venezuela
+
+19
+00:01:49,431 --> 00:01:51,755
+People tend not to understand much about Bitcoin.
+
+20
+00:01:51,780 --> 00:01:54,851
+what the hell it is ,how it functions.
+
+21
+00:01:54,876 --> 00:01:57,330
+And they dont get
+that it's just a file.
+
+22
+00:01:57,356 --> 00:02:00,938
+a book where all the transactions that 
+are taking place around the world are written.
+
+23
+00:02:00,963 --> 00:02:03,700
+And the contents of that book
+is public and free to access.
+
+24
+00:02:03,725 --> 00:02:07,005
+And the good thing, the wonderful thing,
+the revolutionary thing,
+
+25
+00:02:07,030 --> 00:02:08,991
+the groundbreaking thing of all this is
+
+26
+00:02:09,017 --> 00:02:11,085
+that the book is being writte by everyone -
+in consensus.
+
+27
+00:02:11,110 --> 00:02:14,413
+Imagine there are a few people
+who love a book, like, i dont know, lets say
+
+28
+00:02:14,438 --> 00:02:18,109
+Lets reach some sort of consenss about
+the Christians, the Bible, that kind of thing,
+
+29
+00:02:18,134 --> 00:02:19,925
+or ,say a consensus about the Jews,
+the Torah
+
+30
+00:02:19,949 --> 00:02:23,364
+We are taking about a book in which
+
+31
+00:02:23,391 --> 00:02:25,574
+all the finacial users reach a consensus
+
+32
+00:02:25,598 --> 00:02:28,213
+and in a way that we can all agree on what was written there,
+
+33
+00:02:28,238 --> 00:02:30,460
+and everyone can constantly check it.
+
+34
+00:02:30,485 --> 00:02:32,429
+That is exactly what Btcoin is
+
+35
+00:02:32,454 --> 00:02:35,725
+The first time in the history of humanity that we all agree,
+
+36
+00:02:35,751 --> 00:02:37,381
+in a technological way,
+
+37
+00:02:37,405 --> 00:02:40,325
+to make something together, something we all agree on.
+
+38
+00:02:40,351 --> 00:02:43,438
+That is a paradigm shift, which gives humanity
+this idea of widespread coming together.
+
+39
+00:02:43,463 --> 00:02:45,605
+We are going to insist that it works
+
+40
+00:02:45,629 --> 00:02:47,092
+in a decentralized way.
+
+41
+00:02:47,118 --> 00:02:48,518
+The future is brilliant.
+
+42
+00:02:48,543 --> 00:02:53,290
+Never before was someone able 
+to put it together in a real real system,
+a software system.
+
+43
+00:02:53,315 --> 00:02:56,636
+BOBBY LEE,CEO,BTCC,BITCOIN EXCHANGE AND MINING COMPANY,SHANGHAI
+because a double spending was a  biggest thing
+you could not  overcome.
+
+44
+00:02:56,661 --> 00:03:00,040
+With a gold , it is easier.something phisical is easy.
+I give you a piece of gold.
+
+45
+00:03:00,066 --> 00:03:02,341
+you have it. I dont have it .
+because i gave it to you.
+
+46
+00:03:02,366 --> 00:03:05,093
+With digital information, 
+i give you a digital photograph.
+
+47
+00:03:05,119 --> 00:03:07,341
+In a essense, I give you a copy of it.
+
+48
+00:03:07,366 --> 00:03:10,301
+when i give it to you, you have it.
+and I also have it.
+
+49
+00:03:10,326 --> 00:03:13,212
+With currecy and  digital money, we cannot allow for that.
+
+50
+00:03:13,237 --> 00:03:16,325
+If we did allow for that,then it's  practically useless, right?
+
+51
+00:03:16,350 --> 00:03:17,950
+So, how do you solve that problem?
+
+52
+00:03:17,975 --> 00:03:21,021
+Researchers were looking  for that last 20-40 years.
+
+53
+00:03:21,046 --> 00:03:23,110
+And finally ,in 2008 and 2009,
+
+54
+00:03:23,135 --> 00:03:25,798
+We have a version of Bitcon that solve the problem.
+
+55
+00:03:25,823 --> 00:03:28,296
+through the notion of global ledger  called blockchain.
+
+56
+00:03:28,321 --> 00:03:30,220
+Blockchain is a buss word.
+
+57
+00:03:30,277 --> 00:03:34,317
+GAVIN ANDERESEN,CHIEF SCENTIST, BITCOIN FOUNDATION
+so , I am not entirely sure what it means.
+I think It's entirely depends on the speaker.
+
+58
+00:03:34,342 --> 00:03:39,238
+In general , I think,when they say Blockchain.
+They mean the idea of
+
+59
+00:03:39,262 --> 00:03:44,909
+a record of transactions,
+that's secure and distributed.
+
+60
+00:03:44,934 --> 00:03:50,068
+FRED WILSON,CO-FOUNDER,UNION SQUARE VENTURES,NEW YORK
+Where we sit Today, companies like Facebook, Google , Amazon, Apple,
+
+61
+00:03:50,093 --> 00:03:52,834
+They are increasingly sitting on all of our data.
+
+62
+00:03:52,859 --> 00:03:55,613
+Everytime somebody *en-masses* big monopolies
+
+63
+00:03:55,638 --> 00:03:59,763
+Something comes along that's 
+just completely and totaly a game changer.
+
+64
+00:03:59,788 --> 00:04:02,156
+And I think it's blockchain technology.
+
+65
+00:04:02,181 --> 00:04:05,845
+VITALIK BUTERIN,FOUNDER,ETHEREUM,TORONTO,MOSCOW,SHANGHAI
+It is a buss word and but at the same time,
+the word refers to a paticular thing.
+
+66
+00:04:05,881 --> 00:04:08,992
+the particular thing is really useful and 
+you can a lot of stuff on it.
+
+67
+00:04:09,017 --> 00:04:10,751
+There are lot of ways to describe it.
+
+68
+00:04:10,776 --> 00:04:16,717
+like one phrase that
+Robert Sams has used ,that I really like, is 
+Decentralized automation.
+
+69
+00:04:16,743 --> 00:04:22,557
+So, the idea you can ,sort of , run
+various kinds of processes in a way that
+number one is completely automated.
+
+70
+00:04:22,582 --> 00:04:25,302
+So you  get just  huge gains in efficiency out of that.
+
+71
+00:04:25,327 --> 00:04:28,402
+And the number two is  that decentralized
+which means that
+
+72
+00:04:28,445 --> 00:04:32,532
+No1. Like there is no sort of process that can get corrupted 
+ by one particular entity.
+
+73
+00:04:32,557 --> 00:04:36,369
+And No2. there is no process that just requires a central entity and then
+
+74
+00:04:36,404 --> 00:04:41,094
+sort of natural *yield* creates too much
+oppotunity for that central entity
+to become a monopoly.
+
+75
+00:04:41,119 --> 00:04:44,533
+*** ways in which this technology in its current iteration.
+
+76
+00:04:44,558 --> 00:04:48,029
+and by that I  mean, distributed ledger rather than bitcoin.
+
+77
+00:04:48,054 --> 00:04:50,685
+moves are away from the founding principle of Bitcoin
+
+78
+00:04:50,710 --> 00:04:56,332
+around anonymity and replaces it with certain known actors.
+
+79
+00:04:56,357 --> 00:04:58,180
+With regulated finacial systems.
+
+80
+00:04:58,205 --> 00:05:01,581
+But , none of that , inevitablly means anything.
+
+81
+00:05:01,607 --> 00:05:08,131
+Here is a way I would say ,
+People always overestimate what technology can do in 2 years,
+but  underestimate what it can do in 10.
+
+82
+00:05:12,056 --> 00:05:16,476
+LARRY SUMMERS, FORMER SECURETARY OF TREASURY USA
+People who think somehow the Bitcoin is gonna
+
+83
+00:05:16,501 --> 00:05:21,517
+bring in some Libertarian paradise where we are not going 
+to have KNOW YOUR CUSTOMER rules
+
+84
+00:05:21,542 --> 00:05:24,733
+and not going to have rules on Money transfer. That will not happen.
+
+85
+00:05:24,758 --> 00:05:29,964
+People who think that  all the currencies are 
+going to be depotched and gonna have a hyper inflation.
+
+86
+00:05:29,989 --> 00:05:33,660
+Bitcoin is salvation . I thnk they are wrong too.
+
+87
+00:05:33,677 --> 00:05:39,677
+in a world where we've got a real struggle 
+to get up to 2 percent inflation.
+
+88
+00:05:39,702 --> 00:05:42,821
+Anywhere industrial world. But,
+
+89
+00:05:42,846 --> 00:05:47,973
+is the Blockchain technology gonna be  fundamental to reducing  fractions ?
+
+90
+00:05:47,998 --> 00:05:51,757
+I think  the answer is overwelmingly likely  that it is going to be  Yes.
+
+91
+00:05:51,782 --> 00:05:54,990
+ROGER VER,EARLY BITCOIN EVANGELIST, TOKYO
+Larry Summers was talking about how blockchain is here to stay
+
+92
+00:05:55,022 --> 00:06:00,261
+And  Bitcoin technology is amazing and this gonna change
+ the ways that   financial system world to work.
+
+93
+00:06:00,337 --> 00:06:03,813
+but *fairly*  bitcoiners like myself think we gonna be able to have
+
+94
+00:06:03,838 --> 00:06:08,989
+anonymous transactions that  are private from the  government
+and the people are actually allowed to do what they want  with their money
+
+95
+00:06:09,014 --> 00:06:12,965
+And he said we were wrong about that.
+I think one of us is wrong .
+
+96
+00:06:12,990 --> 00:06:14,605
+I dont  think it's  going to be  me.
+
+97
+00:06:14,630 --> 00:06:19,841
+I kind of knew with  that day would come in which the people 
+that share my world view are going to   be  the  minority.
+
+98
+00:06:19,868 --> 00:06:24,366
+In Bitcoin, but  I think that's also a sign that  we are winning
+
+99
+00:06:24,391 --> 00:06:27,546
+Now ,this  many other people are interested in this technology.
+
+100
+00:06:27,571 --> 00:06:32,556
+someone seems to have shared silimar  world view to my own created. That's pretty exciting.
+
+101
+00:06:32,604 --> 00:06:37,636
+bank of america, Wells Fargo and western union  are here in space.
+
+102
+00:06:37,661 --> 00:06:39,637
+That means we are winning.
+
+103
+00:06:39,663 --> 00:06:43,125
+Hopefully it means they wont able to *co-opt* what we've built so far
+
+104
+00:06:43,150 --> 00:06:49,341
+and turn it into sort of  hierachical system in which, you know , governments are 
+able to monitor every single transaction that people make
+
+105
+00:06:49,366 --> 00:06:51,985
+That would be my nightmare outcome.
+
+106
+00:06:52,010 --> 00:07:01,504
+There is now a sort of this battle between , you know, 
+the people who originally brought this thing into the world
+
+107
+00:07:01,529 --> 00:07:10,864
+and who wanted this  to be a sort of revolutinarily new technology that would   help   free people from governments and banks.
+
+108
+00:07:10,889 --> 00:07:14,865
+And now  on the other side , there are Governemts and Banks.
+
+109
+00:07:14,890 --> 00:07:24,024
+they themselves are trying  use this technology to 
+change the way that we use money and 
+change the way the infomation is stored.
+
+110
+00:07:24,049 --> 00:07:28,912
+I think it is very much an open question as to  where this ends up.
+

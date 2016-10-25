@@ -1,0 +1,319 @@
+﻿1
+00:00:00,032 --> 00:00:04,334
+Mining sits at the foundation of Bitcoin.
+
+2
+00:00:04,359 --> 00:00:07,650
+Initially people who were
+
+3
+00:00:07,674 --> 00:00:11,162
+running a bitcoin software and
+
+4
+00:00:11,187 --> 00:00:13,818
+trying to win the bitcoin mining race
+
+5
+00:00:13,843 --> 00:00:19,752
+were the sort of fanatics who had fallen in love with this idea
+
+6
+00:00:19,777 --> 00:00:25,285
+Overtime Bitcoin mining has essentially become a specialized profession.
+
+7
+00:00:25,310 --> 00:00:34,491
+available to people who have some ability 
+to setup these installation around the world.
+And so
+
+8
+00:00:34,516 --> 00:00:39,246
+Mining has increasingly become the specialized profession
+
+9
+00:00:39,271 --> 00:00:42,015
+that's  become something of problem because
+
+10
+00:00:42,040 --> 00:00:45,729
+the design of bitcoin software gives
+
+11
+00:00:45,754 --> 00:00:49,522
+decision making power to the miners
+
+12
+00:00:49,547 --> 00:00:53,956
+And whatever software they choose to run
+
+13
+00:00:53,981 --> 00:01:00,172
+that becomes the software and rules for  essentially the whole network.
+
+14
+00:01:00,197 --> 00:01:05,106
+So these miners around the world has a sort of
+
+15
+00:01:05,131 --> 00:01:11,256
+voting power over  what the Bitcoin software and what the Bitcoin itself looks like
+
+16
+00:01:13,975 --> 00:01:17,269
+TRUST DISRUPTED
+BITCOIN AND BLOCKCHAIN
+ECHCRUNCH ORIGINALS
+
+17
+00:01:19,075 --> 00:01:22,865
+2. BITCOIN MINES AND MINERS
+2100 MIL
+
+18
+00:01:25,513 --> 00:01:28,203
+21 Millions:Final number of Bitcoins to be released by 2140
+
+19
+00:01:28,230 --> 00:01:34,476
+21 Millions:Final number of Bitcoins to be released by 2140
+12.5 : Bitcoins released onto the network every 10 minutes in 2017
+
+20
+00:01:34,501 --> 00:01:39,031
+So when Satoshi Nakamoto came up with it 
+The real key question is howto get these 21 million outthere.
+
+21
+00:01:39,056 --> 00:01:41,897
+if he all give it to himself , he would have huge burden.
+
+22
+00:01:41,922 --> 00:01:50,880
+**  he gives to the men of the world or to the women,
+to the children, to the American, to the poor people in Africa
+and starving people or to the Communists
+
+23
+00:01:50,905 --> 00:01:52,535
+who do you choose  to give 21 million.
+
+24
+00:01:52,560 --> 00:01:57,702
+only fair he came up with was to give it for free
+to whoever wants it.
+
+25
+00:01:57,727 --> 00:02:03,073
+Miner's job is to take all of the valid transactions they see
+
+26
+00:02:03,098 --> 00:02:06,329
+and gather up these transactions in what called blocks.
+
+27
+00:02:06,354 --> 00:02:10,295
+and they perform this busy work. 
+They are kind of in a race *install* the other miners
+
+28
+00:02:10,320 --> 00:02:14,471
+to have the privilege of being the cannonical record of transactions that happened.
+
+29
+00:02:14,496 --> 00:02:20,679
+if they win their race. Then there is a very special transaction 
+begining of every single block awards brand new Bitcoins.
+
+30
+00:02:21,579 --> 00:02:25,444
+As Bitcoin price rises,
+
+31
+00:02:25,469 --> 00:02:31,171
+it incentivises somebody to turn on mining equipment somehere in the word.
+
+32
+00:02:31,198 --> 00:02:35,443
+then , that adds this
+processing power to the netowork which
+is seen by system.
+
+33
+00:02:35,468 --> 00:02:39,315
+so the system makes an adjustment to make it harder to produce Bitcoin.
+
+34
+00:02:39,340 --> 00:02:46,286
+In my same power footprint here I produce essentially less and less Bitcoin overtime.
+
+35
+00:02:46,311 --> 00:02:48,563
+But the value of Bitcoin rises.
+
+36
+00:02:48,588 --> 00:02:55,363
+We reach the point where
+the determining factors and who can profitabily mine  bit contins
+
+37
+00:02:55,388 --> 00:03:01,168
+is access to cheap computer hardware and access to cheap electricity
+
+38
+00:03:01,193 --> 00:03:08,579
+And Right now ,the place where  those 2 things are easiest to find is China.
+
+39
+00:03:08,604 --> 00:03:17,891
+And so , you have essentially 2/3 to 3/4 of all of Bitcoins being  mined in the world
+
+40
+00:03:17,916 --> 00:03:21,103
+ going to these mining  installations around China.
+
+41
+00:03:22,577 --> 00:03:25,789
+Min Jian River
+
+42
+00:03:41,865 --> 00:03:48,630
+ZHU REI, CEO,UNIDENTIFIED BITCOIN MINE,SZEHUAN PROVINCE
+
+There are fifteen people working in this facility.
+
+43
+00:03:48,655 --> 00:03:53,431
+Their job   is to look after all the hardware here.
+
+44
+00:03:53,456 --> 00:03:58,693
+All of them live and work in the power plant.
+
+45
+00:04:11,972 --> 00:04:23,004
+THose parts of the country with cheaper energy rates
+are in remote areas, not in the cities.
+
+46
+00:04:23,029 --> 00:04:29,092
+So people don't really know where these miners are.
+
+47
+00:04:29,117 --> 00:04:33,366
+Competition is really intense in China,
+
+48
+00:04:33,391 --> 00:04:39,197
+and the number of people here 
+getting into Bitcoin mining is rising rapidly.
+
+49
+00:04:39,222 --> 00:04:43,095
+So, the bottom line is, when you are lucky enough
+to be in a place like this,
+
+50
+00:04:43,120 --> 00:04:48,056
+where cost of electricity is so low,
+
+51
+00:04:48,081 --> 00:04:52,266
+well, you keep it to yourself.
+
+52
+00:04:52,291 --> 00:04:58,032
+They essentially by having majority mining power  they  hold all the cards for
+
+53
+00:04:58,057 --> 00:05:01,945
+whose transactions getting included that's  another big one. Think about that.
+
+54
+00:05:01,970 --> 00:05:07,327
+Think about the possibility that due to maybe a government or ruling or something.
+
+55
+00:05:07,352 --> 00:05:13,473
+No transactions originating in the  US  for Bitcoin should be accepted any of the blocks in China.
+
+56
+00:05:13,498 --> 00:05:15,835
+That's a very scary scary concept.
+
+57
+00:05:15,860 --> 00:05:22,258
+It should be extremely scary to the people who ve invested in businesses that are built on Bitcoin blockchain.
+
+58
+00:05:22,283 --> 00:05:25,620
+On the side debates that you also see what you are talking about China,
+
+59
+00:05:25,645 --> 00:05:28,824
+A question within the Bitcoin comminuty about the roles of miners play in China,
+
+60
+00:05:28,849 --> 00:05:35,630
+adn whether or not there  should be some sort of concern 
+for some attempts to counteract
+ the growing power of China in mining space.
+
+61
+00:05:35,655 --> 00:05:37,609
+in Bitcoin blockchain itself.
+
+62
+00:05:37,634 --> 00:05:41,421
+It does raise very interesting issue around governance models of public  blockchain.
+
+63
+00:05:41,446 --> 00:05:46,997
+What do you do in the situation where one particular entity or a group of entity acting collectively,
+
+64
+00:05:47,022 --> 00:05:52,062
+gain enough power in a open system that  they can begin  dictating the governance of  system.
+
+65
+00:05:52,087 --> 00:05:58,286
+It's something of a test for the philosophy behind this technology.
+
+66
+00:05:58,311 --> 00:06:01,986
+I mean one of the basic ideas here  was that
+
+67
+00:06:02,010 --> 00:06:09,637
+people working together could create a better system
+and could create a better software.
+
+68
+00:06:09,662 --> 00:06:14,368
+then any one start up or enteprenuer could
+
+69
+00:06:14,393 --> 00:06:17,702
+I mean this was an idea of communal wisdom or hive mind
+
+70
+00:06:17,727 --> 00:06:24,072
+would be   more successful than anybody working in isolation.
+
+71
+00:06:24,097 --> 00:06:30,452
+It is not at all  clear that  that  software being  developed by volunteers all around the world
+
+72
+00:06:30,477 --> 00:06:37,578
+is going to be able to  adapt quickly enough to keep up 
+with this existing powers
+
+73
+00:06:37,603 --> 00:06:41,745
+and all the resouces that  they have  put in the experiment.
+
+74
+00:06:49,643 --> 00:06:52,246
+BAsed on nathaniel Popper's Digital Gold

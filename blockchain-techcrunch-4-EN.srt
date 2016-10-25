@@ -1,0 +1,409 @@
+﻿1
+00:00:01,000 --> 00:00:08,014
+I think Bitcoin has been a sort-of  holding pattern
+for last year or so.
+
+2
+00:00:08,039 --> 00:00:15,723
+As people try to figure out whether the problem
+Bitcoin has encountered can be resolved
+
+3
+00:00:15,892 --> 00:00:21,432
+Or whether you are going to need to  move to some other system
+
+4
+00:00:21,457 --> 00:00:24,036
+to get the benefits that Bitcoin promised
+
+5
+00:00:26,429 --> 00:00:29,118
+TRUST DISRUPTED
+BITCOIN AND THE BLOCKCHAIN
+TechCrunch Originals
+
+6
+00:00:31,478 --> 00:00:35,077
+IV. Blockchain on the Rise
+
+7
+00:00:38,333 --> 00:00:40,594
+$350 Million: value of Bitcoins lost in 2013 bankruptcy of Mt.Gox
+
+8
+00:00:40,619 --> 00:00:48,405
+$350 Million: value of Bitcoins lost in 2013 bankruptcy of Mt.Gox
+$65 Million: value of Bitcoins lost in 2016 hack of Bitfinex
+
+9
+00:00:50,461 --> 00:00:53,481
+Consensus Conference
+May 2,2016
+New York
+
+10
+00:00:53,506 --> 00:00:58,646
+a few hours after computer scientist
+Craig wright declares he's Satoshi Nakamoto
+
+11
+00:00:58,671 --> 00:01:02,223
+You were saying it doesn’t matter that
+Satoshi is Craig Wright ?
+
+12
+00:01:02,248 --> 00:01:06,230
+Yeah, I don’t think he has that  much power,
+
+13
+00:01:09,575 --> 00:01:11,369
+Back before the announcement,
+
+14
+00:01:11,394 --> 00:01:12,810
+I thought it was one person because you know
+
+15
+00:01:12,835 --> 00:01:17,106
+honestly  people think it is secretly  massive achievement
+
+16
+00:01:17,131 --> 00:01:21,822
+But it just was hitting at the right thing and at a right time.
+
+17
+00:01:21,847 --> 00:01:26,617
+I thought it was just someone,you know,
+ random 30 to50 year old male ,quite possibly Japanese.
+
+18
+00:01:26,641 --> 00:01:31,106
+** supposed to be Japanese **
+
+19
+00:01:31,215 --> 00:01:34,374
+VITALIK BUTERIN , FOUNDER, ETHEREUM,TORONTO,MOSCOW,SHANGHAI
+So I discover the Bitcoin back in  2011
+
+20
+00:01:34,399 --> 00:01:37,005
+Actually , First time I heard about it  my Dad told me.
+And he said,
+
+21
+00:01:37,030 --> 00:01:40,797
+It's very interesting new currency.
+It is not issued by any kind of government and de-centralized.
+
+22
+00:01:40,822 --> 00:01:42,369
+I should check it out.
+
+23
+00:01:42,394 --> 00:01:48,879
+I started to work seriously getting on the floor
+I was trying to earn bitcoins myself by just writing articles
+on various different blogs.
+
+24
+00:01:48,904 --> 00:01:55,638
+Eventually I started to get  more and more into it
+and I ended up  co-founding a Bitcoin magazine.
+
+25
+00:01:55,663 --> 00:01:58,247
+So in High-tech,  we talk about networking effect
+
+26
+00:01:58,272 --> 00:02:00,713
+like e-bay had fantastic network effect
+
+27
+00:02:00,737 --> 00:02:04,726
+there are  two sides, buyers and sellers , people auctioning stuff.
+
+28
+00:02:04,751 --> 00:02:06,996
+and people wanna buy a stuff.
+
+29
+00:02:07,021 --> 00:02:13,444
+The bigger the market places,The more buyers you attract,
+the more buyers there are  The more people sell there.
+
+30
+00:02:13,469 --> 00:02:14,451
+That's network effect.
+
+31
+00:02:14,476 --> 00:02:17,017
+eBay is the 800 pound gorilla.
+
+32
+00:02:17,042 --> 00:02:21,587
+In the crypt currency space,right now Bitcoins is the 800 pound gorilla.
+
+33
+00:02:21,612 --> 00:02:26,323
+In terms of technological proof of concept, it is  inspired developers around the world
+
+34
+00:02:26,260 --> 00:02:33,808
+financial institutions, governments, stock exchanges,
+pretty much everybody doing anything in financial services.
+
+35
+00:02:33,833 --> 00:02:37,623
+has paid attention to the technological achievement
+
+36
+00:02:37,648 --> 00:02:42,034
+the currency and *the store* value *less*
+
+37
+00:02:42,059 --> 00:02:52,325
+Blockchain technology that Bitcoin introduced
+has been eclipsing the original application of blockchain ,Bitcoin.
+
+38
+00:02:52,350 --> 00:02:55,928
+At the end of 2013, people are getting  interested in blockchain technology
+
+39
+00:02:55,953 --> 00:03:01,986
+they are getting interested in this idea particularly
+you can  use it for the application other than Bitcoin.
+
+40
+00:03:02,011 --> 00:03:04,979
+Bitcoin currency and Blockchain technology are 2 different things.
+
+41
+00:03:05,859 --> 00:03:10,514
+Snapcard
+Founded 2013
+San Francisco
+
+42
+00:03:18,018 --> 00:03:22,528
+Mission Statement: Make it easier
+ for consumers and businesses to use blockchain technologies
+
+43
+00:03:26,208 --> 00:03:30,591
+World can change completely based on what this technology can do
+
+44
+00:03:30,616 --> 00:03:35,230
+It is like an alien technology basicaly like  we've never have it  before
+
+45
+00:03:35,255 --> 00:03:37,921
+Now we've  gotten everyone rushing to play with it.
+
+46
+00:03:37,946 --> 00:03:40,887
+I think that's what's exciting about it
+
+47
+00:03:40,946 --> 00:03:46,295
+if you look at for different developers like build products
+
+48
+00:03:46,320 --> 00:03:50,176
+They always wanna like to try out new cool stuff.
+
+49
+00:03:50,201 --> 00:03:55,715
+if they are building before before the internet,building software.
+ started building web pages which is really  cool.
+
+50
+00:03:55,740 --> 00:03:58,822
+and then started to build web applications
+
+51
+00:03:58,848 --> 00:04:00,857
+mobile got much more cool
+
+52
+00:04:00,885 --> 00:04:05,964
+more challenging or  more new
+ mobile instead of web
+
+53
+00:04:05,989 --> 00:04:09,133
+I think that blockchain is kind-of that next step.
+
+54
+00:04:10,132 --> 00:04:12,123
+Consensus 2016, may 2-4, 2016
+Making Blockchain Real
+New York City
+
+55
+00:04:12,147 --> 00:04:15,187
+So 1.1 billion dollars has been raised today
+
+56
+00:04:15,212 --> 00:04:18,180
+by  cryptcurrency and blockchain start-ups
+
+57
+00:04:18,205 --> 00:04:20,456
+That's really really significant number
+
+58
+00:04:20,729 --> 00:04:26,432
+The other point that is
+interesting with Q1 especially
+that we saw a reversal of the trend
+
+59
+00:04:26,457 --> 00:04:34,858
+has been declining
+level of investment in the industry of last several quarters
+both in terms of overall fund flow and average deal size
+
+60
+00:04:34,883 --> 00:04:39,933
+This really changed in Q1 with emergence of blockchain
+is the distinct investment category.
+
+61
+00:04:39,962 --> 00:04:44,264
+Identity Mind Global is a provider of risk management services.
+
+62
+00:04:44,288 --> 00:04:48,528
+We see a blockchain really as a new medium for financial asset
+
+63
+00:04:48,553 --> 00:04:56,903
+t0 is a platform for exchanging digital assets
+which we've created using a blockchain technology
+It specialized to exchange. ...
+
+64
+00:04:56,952 --> 00:05:02,999
+Having to have a piece of plastic and you gotta remember with you.
+what you can do is you could use your mobile device
+
+65
+00:05:03,024 --> 00:05:13,036
+We especially started with Bitcoin blockchain,public blockchain. We are gonna move now
+next to Etherium public blockchain. eventually connects to multiple blockchains.
+
+66
+00:05:13,061 --> 00:05:14,882
+We are build a proof of concept
+
+67
+00:05:14,907 --> 00:05:17,345
+decentralize the energy company
+
+68
+00:05:17,370 --> 00:05:20,165
+that connects neighbors in the rural environment
+
+69
+00:05:20,189 --> 00:05:24,764
+and counts the consumption and production of electricity
+
+70
+00:05:24,789 --> 00:05:26,585
+on the block chain
+
+71
+00:05:26,610 --> 00:05:31,273
+Satoshi and Craig Wright, the news about who Satoshi is
+
+72
+00:05:31,298 --> 00:05:34,643
+Do you believe Craig Wright and does it matter ?
+
+73
+00:05:34,668 --> 00:05:38,506
+I am  Satoshi,   I am kidding.
+
+74
+00:05:38,531 --> 00:05:44,319
+Does it matter to me or to us ?  I don’t know , I guess not.
+
+75
+00:05:44,344 --> 00:05:46,709
+We refer to ourselves as   Bitcoin agnostic.
+
+76
+00:05:46,734 --> 00:05:53,809
+If Bitcoin finds itself successful , Great.
+If Bitcoin doesn’t find itself successful ,that's  Great.
+I doesn’t impact what we are trying to do.
+
+77
+00:05:53,834 --> 00:05:58,318
+I think here we are pretty agnostic , in terms of which one is the one.
+
+78
+00:05:58,343 --> 00:06:03,201
+when companies are fighting for your eyeballs using blockchain tech
+
+79
+00:06:03,226 --> 00:06:05,703
+competing blockchain tech. That's really what it *starts*.
+
+80
+00:06:05,728 --> 00:06:09,215
+Right now everyone is still building  cars to start a race
+
+81
+00:06:09,240 --> 00:06:18,896
+Everyone still ,you know , this is in development .you know, Barclays got this program.
+They got this programing like Common Wealth Bank.
+
+82
+00:06:18,921 --> 00:06:29,461
+All these big institutions are starting to build places and dedicated  block chain labs
+have these all these people  getting the resources and money get throwing at tit.
+
+83
+00:06:29,486 --> 00:06:33,430
+I am not saying that those guys are gonna be the reason why we all feel it  but
+
+84
+00:06:33,455 --> 00:06:37,562
+might be a bunch of  hackers sitting in the bed room  that  make something really awesome.
+
+85
+00:06:37,588 --> 00:06:41,854
+that  change your life And that could be it.
+
+86
+00:06:41,879 --> 00:06:43,447
+I don't know We will wait and see.
+
+87
+00:06:43,472 --> 00:06:46,946
+Beyond that, there is the Etherium vision
+
+88
+00:06:46,971 --> 00:06:51,464
+This isn't just going to be  a place for financial transactions.
+
+89
+00:06:51,488 --> 00:06:59,830
+THis is going to be how basicaly  organizations
+and  informational flow around the world happens as well
+
+90
+00:06:59,855 --> 00:07:02,349
+In some way It's more ambitious.
+
+91
+00:07:02,473 --> 00:07:10,893
+That's a vision of the future in which
+you essentially have enormous global computer
+
+92
+00:07:10,918 --> 00:07:18,276
+on which all of software and decision making and political processes can run.

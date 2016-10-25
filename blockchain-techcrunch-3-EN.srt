@@ -1,0 +1,331 @@
+﻿1
+00:00:00,001 --> 00:00:05,564
+NATHANIEL POPPER,AUTHOR OF DIGITAL GOLD,REPORTER,NEW YORK TIMES,SAN FRANSISCO
+
+Bitcoin is supposed to run on a sort of Democratic process.
+
+2
+00:00:05,589 --> 00:00:08,405
+aimed  at  reaching a consensus.
+
+3
+00:00:08,430 --> 00:00:16,669
+But over the last year or so , It's
+been increasingly hard to find any consensus
+about what this thing should look like.
+
+4
+00:00:16,694 --> 00:00:27,387
+At the most basic level a battle over a Bitcoin today is about
+how many transactions should be running through the network.
+
+5
+00:00:27,462 --> 00:00:36,294
+On one side , you have this camp that wants to expand the
+number of transactions that can go through the network
+
+6
+00:00:36,319 --> 00:00:43,246
+So that anyone can send the transaction over the network
+anytime essentially for free
+
+7
+00:00:43,271 --> 00:00:49,861
+On the other side, you have this camp that essentially wants to keep
+Bitcoin smaller
+
+8
+00:00:49,888 --> 00:00:56,110
+in order to assure its security and de-centralization of  the network.
+
+9
+00:00:56,135 --> 00:01:01,724
+This battle has  become a sort of  political civil war
+within the Bitcoin community
+
+10
+00:01:01,749 --> 00:01:08,772
+where the two sides are really fighting over
+the fate what this system looks like.
+
+11
+00:01:11,544 --> 00:01:15,404
+TRUST DISRUPTED
+BITCOIN AND THE BLOCKCHAIN
+TechCrunch Originals
+
+12
+00:01:16,251 --> 00:01:20,088
+III. Bitcoin in Search of Itself
+
+13
+00:01:22,756 --> 00:01:25,341
+1 Megabyte: Cap on the amount of data processed by the Bitcoin network every 10 minutes
+
+14
+00:01:25,366 --> 00:01:35,267
+1 Megabyte : Cap on the amount of data processed by the Bitcoin network every 10 minutes
+ 7 : Maximum number of transactions the Bitcoin network can handle every second
+
+15
+00:01:41,287 --> 00:01:45,724
+We are moving to a potentially dangerous point of information
+
+16
+00:01:45,749 --> 00:01:51,294
+Today's society has less a kind of  freedoms of expression and freedoms of  association
+
+17
+00:01:51,319 --> 00:02:01,842
+than previous generations because the technology didn't exist and wasn't sort of archiving and collecting
+at all and the conversations are happening in physical environment where everything is recorded.
+
+18
+00:02:02,384 --> 00:02:07,265
+As things move onto the Internet, *as default* everything is being recorded
+
+19
+00:02:07,290 --> 00:02:12,381
+and you also see this with sort of reactions to Snowden's revelations that
+
+20
+00:02:12,406 --> 00:02:15,580
+things are actually more invasive than people anticipated
+
+21
+00:02:15,605 --> 00:02:21,143
+and National government are sort of  probing everything up about all basically everybody
+
+22
+00:02:21,168 --> 00:02:25,002
+ADAM BACK,PRESIDENT,BLOCKSTREAM,BLOCKCHAIN SOFTWARE COMPANY,SAN FRANSISCO
+
+You don’t have to have committed a crime or be suspicious to commit a crime
+
+23
+00:02:25,027 --> 00:02:28,992
+They just are recording all just in case they want to  look *further*
+
+24
+00:02:31,004 --> 00:02:38,915
+What encryption technology  does is  hold the balance back of it so that
+ people are regaining  that privacy expectations they have
+
+25
+00:02:38,940 --> 00:02:45,130
+As we work on  improving Bitcoin and scaling Bitcoin
+you have to preserve the  security properties.
+
+26
+00:02:45,155 --> 00:02:50,780
+Bitcoin security and permissionlessness depends on de-centralization.
+
+27
+00:02:53,352 --> 00:02:58,154
+BOBBY LEE,CEO, BTCC, BITCOIN EXCHANGE AND MINING COMPANY,SHANGHAI
+So, Today we have this 1 Megabyte blocks which effectively goes about 5 to 7 transactions per second.
+
+28
+00:02:58,179 --> 00:03:02,378
+And for the first 7 years, its never been a problem.
+Now we are in the 8th year,
+
+29
+00:03:02,403 --> 00:03:06,727
+blocks are getting *full*  its kind of the highway, 8 lanes highways are finally getting congested.
+
+30
+00:03:06,751 --> 00:03:12,947
+So, now the questions is  ,do we impose or   just build 69 lane highway or  32 lane highway
+that's kind of ridiculous.
+
+31
+00:03:12,972 --> 00:03:16,545
+The simplest engineering solution is to make the block size bigger.
+
+32
+00:03:16,570 --> 00:03:21,837
+We impose in higher throughput  more cars, more buses , more carpooling. That kind of stuff.
+
+33
+00:03:21,862 --> 00:03:27,729
+It kind of combination of both
+The way I see it is
+Not just transporting a  Bitcoin layer.
+
+34
+00:03:27,754 --> 00:03:31,482
+But the additional layer on top of Bitcion layers, we call it  Layer 2 services.
+
+35
+00:03:31,509 --> 00:03:35,350
+where there are sidechains, other technology like a  lightening
+
+36
+00:03:35,375 --> 00:03:39,310
+Those will solve some of the  capacity and transaction problems
+
+37
+00:03:39,335 --> 00:03:43,091
+Layer 2 protocols are more network efficient.
+
+38
+00:03:43,119 --> 00:03:49,437
+They don’t broadcast transactions.
+They send transactions between the people involved in payment
+ and maybe routers.
+
+39
+00:03:49,462 --> 00:03:54,563
+And they also improve the speed of transaction
+So transaction can clear *quite* instantly.
+
+40
+00:03:54,588 --> 00:03:58,820
+whereas Bitcoin transactions have some kind of tradeoff
+
+41
+00:03:58,844 --> 00:04:03,293
+where you might get 10 min or  20min settlement time
+depending on the amount **
+
+42
+00:04:03,318 --> 00:04:07,558
+a part of the engineering community thinks that better solution is that
+
+43
+00:04:07,583 --> 00:04:10,441
+go with what called Off-blockchain solutions
+
+44
+00:04:10,468 --> 00:04:17,441
+where transactions don’t settle on the Bitcoin blockchain
+but happen off of  the Bitcoin blockchain
+
+45
+00:04:17,466 --> 00:04:22,084
+This's  been a lot of work on that, a lot of  innovation on that
+I am actually pretty excited about all of that  work
+
+46
+00:04:22,109 --> 00:04:24,123
+It's really interesting technical work.
+
+47
+00:04:24,147 --> 00:04:29,412
+My big disagreement has been that we should not put all of our eggs in one basket
+
+48
+00:04:29,437 --> 00:04:34,340
+we should also do the dumb engineering thing
+ in just increasing the block size now
+
+49
+00:04:34,365 --> 00:04:37,940
+ because there is no reason not to.
+
+50
+00:04:37,965 --> 00:04:42,766
+The scaling advantages from layer 2 are much larger and increasing the block size.
+
+51
+00:04:42,791 --> 00:04:49,308
+Specificity I want to say that assuming the layer
+2 technology * pans out* most people expect.
+
+52
+00:04:49,396 --> 00:04:54,808
+It is probable that story next year  would be the different one
+which is the enormous *size of*  capacity.
+
+53
+00:04:54,833 --> 00:04:59,237
+You are saying that the debate we are having now
+about scaling vs decentralizing
+
+54
+00:04:59,275 --> 00:05:01,687
+might not be a debate  a year from now.
+
+55
+00:05:01,712 --> 00:05:03,803
+yeah , I think that  is *my* expectation.
+
+56
+00:05:03,828 --> 00:05:14,670
+All the transactions in a block can carry a  transaction fee that's paid to the miners
+as a* bribe* essentially to include my transaction in your block instead of  somebody else's
+
+57
+00:05:14,695 --> 00:05:18,092
+If I  have my way , we  will lhave much bigger blocks.
+
+58
+00:05:18,117 --> 00:05:20,369
+Transaction fee is always really low.
+
+59
+00:05:20,394 --> 00:05:24,584
+if you do a math of millions of transactions in a block
+
+60
+00:05:24,609 --> 00:05:28,913
+each paying  is a cent or half of cent for a transaction fee
+
+61
+00:05:28,938 --> 00:05:32,126
+that will more that make up for declining the block award
+
+62
+00:05:32,151 --> 00:05:38,759
+The opponents who want scaling fast are saying  we should make the block bigger
+and put in lot of transactions.
+
+63
+00:05:38,784 --> 00:05:42,531
+Downside is if you make the blocks really big,
+
+64
+00:05:42,556 --> 00:05:47,944
+then it affects how well other people can own and distribute this global ledger
+
+65
+00:05:47,969 --> 00:05:54,926
+so only  a few people can keep up with so-called big blocks
+the world falls in more centralized way of managing Bitcoin.
+
+66
+00:05:54,951 --> 00:06:05,678
+Ideological concern is that we will end up in a place where
+Bitcoin is only a tool for elites and  Big companies
+I think that those are really overblown.
+
+67
+00:06:05,703 --> 00:06:11,889
+Initially I think there was an idea that Bitcoin could be a lot of different things
+
+68
+00:06:11,914 --> 00:06:14,911
+that could be a digital gold
+
+69
+00:06:14,936 --> 00:06:18,345
+also could be a new kind of Paypal
+
+70
+00:06:18,370 --> 00:06:21,052
+where you can run transactions around the world
+
+71
+00:06:21,077 --> 00:06:29,578
+As time is  going on , I think that it become  clear
+that if the system is going to expand
+It cannot be everything to everyone
+
+72
+00:06:29,603 --> 00:06:31,982
+It has to choose what it wants to be
+
+73
+00:06:32,007 --> 00:06:34,911
+based on Nathaniela Popper's Digital Gold

@@ -9,12 +9,12 @@ and to do things Bitcoin couldn't do
 
 3
 00:00:13,206 --> 00:00:20,794
-Original aim of Ethereum was to create 
+Original aim of Ethereum was to create
 not just a decentralized money
 
 4
 00:00:20,819 --> 00:00:25,575
-but essentially a decentralized gloal computer
+but essentially a decentralized global computer
 
 5
 00:00:25,600 --> 00:00:29,732
@@ -46,11 +46,14 @@ TechCrunch  Originals
 11
 00:00:58,746 --> 00:01:01,128
 July 30,2015: Release date of the first live version of Ethereum
+$160 Million : Peak value of Ether raised by the Decentralized Autonomous Organization(DAO)
+$50 Million : Value of Ether stolen in a hack on the DAO
 
 12
 00:01:01,153 --> 00:01:03,224
 July 30,2015: Release date of the first live version of Ethereum
 $160 Million : Peak value of Ether raised by the Decentralized Autonomous Organization(DAO)
+$50 Million : Value of Ether stolen in a hack on the DAO
 
 13
 00:01:03,249 --> 00:01:12,842
@@ -64,18 +67,19 @@ The original reason I like the name is that Ether was
 
 15
 00:01:23,935 --> 00:01:29,446
-This is a sort of thing  the scientist hypothsizing about it  in 19 century
+VITALIK BUTERIN, FOUNDER ETHEREUM,TORONTO MOSCOW SHANGHAI
+This is a sort of thing  the scientist hypothesizing about it  in 19 century
+people were thinking
 
 16
 00:01:29,471 --> 00:01:34,375
-VITALIK BUTERIN, FOUNDER ETHEREUM,TORONTO MOSCOW SHANGHAI
-people are thinking ****travels through water
+****travels through water
 so what the light waves travel through
 
 17
 00:01:34,461 --> 00:01:38,816
-They hypothize the existence of medium  kind-of 
-permeats the entire universe
+They hypothesize the existence of medium  kind-of
+permeates the entire universe
 
 18
 00:01:38,841 --> 00:01:42,135
@@ -95,11 +99,11 @@ And actually I felt that was kind-of fitting analogy for what I wanted to do
 
 22
 00:01:54,674 --> 00:01:57,856
-Bitcoin has the wrong apprach.
+Bitcoin has the wrong approach.
 
 23
 00:01:57,881 --> 00:02:03,311
-I would say Ethereum boasts features and oppotunitues 
+I would say Ethereum boasts features and opportunity
 to do the thing Bitcoin doesn't .
 
 24
@@ -119,12 +123,12 @@ is more of a platform
 
 27
 00:02:27,983 --> 00:02:30,642
-for transmision and storage of value
+for transmission and storage of value
 
 28
 00:02:30,667 --> 00:02:37,466
-So Bitcoin was essentially an experiment 
-in monetary theory gone wildly successfull
+So Bitcoin was essentially an experiment
+in monetary theory gone wildly successful
 
 29
 00:02:37,491 --> 00:02:40,386
@@ -141,13 +145,13 @@ that we see on the World wide web
 
 32
 00:02:48,098 --> 00:02:54,670
-The end of the day , it's kind-of fabric for 
-**** you could almost 
+The end of the day , it's kind-of fabric for
+**** you could almost
 describe it as a new Internet Infrastructure
 
 33
 00:02:54,695 --> 00:02:57,289
-Eventually it runs facebook-like application
+Eventually it runs Facebook-like application
 
 34
 00:02:57,314 --> 00:03:00,372
@@ -172,7 +176,7 @@ I think Vitalik knows what he is building
 
 39
 00:03:19,007 --> 00:03:24,596
-a giant globally distributed re-programable supercomputer
+a giant globally distributed re-programmable supercomputer
 
 40
 00:03:24,620 --> 00:03:27,505
@@ -200,8 +204,8 @@ THe biggest differences that ethererum produces mines
 
 46
 00:03:44,872 --> 00:03:50,647
-that are reprogramable to tasks 
-that we dont nessesary know what they are gonna do yet
+that are reprogrammable to tasks
+that we don’t necessary know what they are gonna do yet
 
 47
 00:03:50,672 --> 00:03:54,443
@@ -209,7 +213,7 @@ One of the highest ambitions of  Ethereum from the beginning
 
 48
 00:03:54,468 --> 00:04:00,329
-was that you would actually be able to 
+was that you would actually be able to
 program
 
 49
@@ -243,7 +247,7 @@ So Decentralized Autonomous Organization ,
 
 55
 00:04:31,030 --> 00:04:35,688
-This idea that you can have kind-of *automatons* 
+This idea that you can have kind-of *automatons*
 that are written in code  that set on the blockchain
 
 56
@@ -253,7 +257,7 @@ in that , you govern through smart contracts,
 57
 00:04:38,129 --> 00:04:43,841
 could be like some voting mechanism,
-could be voting by projection markets 
+could be voting by projection markets
 or some other new thing
 
 58
@@ -267,7 +271,7 @@ and human rules ,but  Instead  according to rules that you programed into Ethere
 
 60
 00:04:55,717 --> 00:05:00,954
-It can actually  leave the decision making up to an Artificial Inteligence
+It can actually  leave the decision making up to an Artificial Intelligence
 
 61
 00:05:00,979 --> 00:05:04,734
@@ -283,11 +287,11 @@ and everyone just delegates the roles to robots and robots make decision for the
 
 64
 00:05:12,122 --> 00:05:16,432
-then eventually you can imagin that many boards are just run by AI.
+then eventually you can imagine that many boards are just run by AI.
 
 65
 00:05:16,457 --> 00:05:18,413
-and occationally intervene by humans
+and occasionally intervene by humans
 
 66
 00:05:18,437 --> 00:05:23,916
@@ -295,7 +299,7 @@ DAO attracted something like 150 million dollars
 
 67
 00:05:23,942 --> 00:05:26,429
-in the cource of a little over a month
+in the course of a little over a month
 
 68
 00:05:26,454 --> 00:05:31,434
@@ -303,7 +307,7 @@ basically on the first days that it was operational
 
 69
 00:05:31,459 --> 00:05:38,222
-you had this attacker who came in and manged 
+you had this attacker who came in and manged
 to take advantage of the contracts in a way
 
 70
@@ -338,7 +342,7 @@ so we have this time in order to see to determine
 
 77
 00:06:15,497 --> 00:06:22,733
-I dont think that Ethereum  has the balls to leave the fact as is.
+I don’t think that Ethereum  has the balls to leave the fact as is.
 
 78
 00:06:22,758 --> 00:06:29,664
@@ -346,7 +350,7 @@ are you hard-forking the entire blockchain?
 
 79
 00:06:29,689 --> 00:06:35,243
-It set off this really pertty philosophical debate about
+It set off this really pretty philosophical debate about
 
 80
 00:06:35,268 --> 00:06:38,522
@@ -371,7 +375,7 @@ that is one of the reason that this is  so valuable
 
 85
 00:06:57,537 --> 00:07:04,922
-you could look back and know that a transction happned
+you could look back and know that a transaction happened
 know that nobody could temper with that ,nobody could change it
 
 86

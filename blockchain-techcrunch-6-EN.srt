@@ -108,7 +108,6 @@ R3 is currently building a system , private system
 00:02:27,124 --> 00:02:31,745
 
 
-
 27
 00:02:31,770 --> 00:02:39,884
 It does seem to me that you get much benefit from closed ledger, private ledger
@@ -175,7 +174,7 @@ and they are only at a  point of now where they can  handle 7 transactions a sec
 
 43
 00:03:38,850 --> 00:03:45,265
-and The world global finance handles thousands if not tens of thousands 
+and The world global finance handles thousands if not tens of thousands
 , hundreds of thousands of transactions every second
 
 44
@@ -208,7 +207,7 @@ at a high leve, I just kind-of  think it is  an industry  grapling with a new te
 
 51
 00:04:30,074 --> 00:04:33,581
-Sillion Valley vision used to be ** evolving.
+Sillion Valley vision used to be allow its evolving.
 
 52
 00:04:33,606 --> 00:04:37,060

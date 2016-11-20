@@ -12,19 +12,20 @@ that our society are having right now  about open vs closed systems
 
 4
 00:00:19,363 --> 00:00:22,512
-with virtual currency in a blockchain
+With virtual currencies in a blockchain
 
 5
 00:00:22,537 --> 00:00:25,383
-original believers in this technology
+the original believers in this technology
 
 6
 00:00:25,408 --> 00:00:28,020
-I think a lot of people in Sillicon Valley
+,I think, a lot of people in Silicon Valley
 
 7
 00:00:28,045 --> 00:00:34,652
-still have this idea that most important part of the system is that it's open
+still have this idea that most important part
+ of the system is that it's open
 
 8
 00:00:34,677 --> 00:00:38,233
@@ -32,16 +33,16 @@ that anybody can use it and anybody can participate
 
 9
 00:00:38,258 --> 00:00:46,469
-just like wikipedia that anybody can comment and edit entries
+just like in Wikipedia that anybody can comment and edit entries
  and add their expertise and knowledge to the system.
 
 10
 00:00:46,494 --> 00:00:52,140
-I think Wall Street and government
+I think on Wall Street and in government
 
 11
 00:00:52,165 --> 00:01:02,284
-There is a suspition of sort-of open systen that Bitcoin
+There is a suspicion of sort-of open system that Bitcoin
 and Ethereum represents where anybody can participate
 
 12
@@ -58,7 +59,8 @@ There is a desire to have a sort-of limited number of people, participating
 
 15
 00:01:15,799 --> 00:01:21,137
-you can essentially know that you can trust every body in the system
+so that you can essentially know 
+that you can trust every body within the system
 
 16
 00:01:24,539 --> 00:01:26,896
@@ -71,145 +73,336 @@ TechCrunch Originals
 6. Co-opt vs Disrupt
 
 18
-00:01:36,191 --> 00:01:37,564
+00:01:36,191 --> 00:01:45,092
 $37 Billion : Goldman Sachs estimate of the potential annual benefits of blockchain technology
+100 : Percent of the 10 largest global banks partnering with R3 blockchain consortium
 
 19
-00:01:37,659 --> 00:01:45,598
-$37 Billion : Goldman
-Sachs estimate of the
+00:01:45,117 --> 00:01:48,455
+
 
 20
-00:01:45,623 --> 00:01:53,401
-potential annual benefits of blockchain technology 100 : Percent
-of the 10 largest global banks partering with R3 consortium
+00:01:48,480 --> 00:01:53,401
+**Can you blow my face just leave puple tie 
+which is going to be only tie in the entire documentary
 
 21
-00:01:53,426 --> 00:01:54,372
-
+00:01:53,426 --> 00:01:58,060
+It is like voice distortion box
 
 22
-00:01:54,397 --> 00:01:59,320
-
+00:01:58,085 --> 00:02:02,692
+exactly i can use that ealier today
 
 23
-00:01:59,345 --> 00:02:02,692
-
+00:02:03,117 --> 00:02:08,307
+we dont believe ****
 
 24
-00:02:03,117 --> 00:02:08,307
-
+00:02:08,332 --> 00:02:12,583
+R3 is currently building 
+towards a  permission system , a private system
 
 25
-00:02:08,332 --> 00:02:12,583
-R3 is currently building a system , private system
+00:02:12,608 --> 00:02:15,604
+because that is the mandate we have got from our Banks
 
 26
-00:02:27,124 --> 00:02:31,745
-
+00:02:15,629 --> 00:02:22,785
+because they have been told they have strong understanding of 
+client privacy laws and various different other  confidentiality provision
 
 27
-00:02:31,770 --> 00:02:39,884
-It does seem to me that you get much benefit from closed ledger, private ledger
+00:02:22,810 --> 00:02:27,099
+but also it's the mandate they are getting from the regulators 
+so they have to play by a certain set of rules
 
 28
+00:02:27,124 --> 00:02:31,745
+I don't particularly have much interest in private blockchain sector
+
+29
+00:02:31,770 --> 00:02:39,884
+It doesn't  seem to me that you get much benefit
+ from having a closed ledger,a private ledger
+
+30
 00:02:39,909 --> 00:02:43,266
 sure there is some benefit.What is really different
 
-29
-00:02:43,291 --> 00:02:51,893
-between a private ledger built on blockchain technology and a private ledge built on sql database technology
-
-30
-00:02:51,918 --> 00:02:56,471
-major financial institutions are skeptical about open ledgers for a set of reasons
-
 31
+00:02:43,291 --> 00:02:51,893
+between a private ledger built on blockchain technology and a private ledger built on sq database technology
+
+32
+00:02:51,918 --> 00:02:56,471
+Major financial institutions are skeptical about open ledgers for a set of reasons
+
+33
 00:02:56,496 --> 00:02:59,836
 First of all , Wall street operates under a set of  regulatory constrains
 
-32
+34
 00:02:59,861 --> 00:03:02,356
 that they cannot afford to just ignore
 
-33
-00:03:02,446 --> 00:03:07,232
-Their central bankers or  their various different securitie or derivative regulators. Their conduct regulators
-
-34
-00:03:07,257 --> 00:03:13,707
-I have a front seat to the question about can bitcoin technology and blockchain technology work in regulated environement
-
 35
-00:03:13,732 --> 00:03:16,815
-because I am on a board of the company Coinbase which is
+00:03:02,446 --> 00:03:07,232
+Their central bankers or  their various different securities or derivative regulators. 
+their conduct regulators
 
 36
+00:03:07,257 --> 00:03:13,707
+I have a front seat to the question about can bitcoin technology and blockchain technology work in regulated environment
+
+37
+00:03:13,732 --> 00:03:16,815
+because I am on a board of the company called Coinbase which is
+
+38
 00:03:16,843 --> 00:03:21,954
 probably the leading exchange and hosted wallet provider here in United States
 
-37
+39
 00:03:21,979 --> 00:03:24,254
 one of the leading company around the world
 
-38
+40
 00:03:24,279 --> 00:03:27,042
 And they have to operate in a regulated environment
 
-39
+41
 00:03:27,068 --> 00:03:29,214
 if you look at the Bitcoin debate  right now
 
-40
+42
 00:03:29,239 --> 00:03:31,858
 where they are arguing over  the block size
 
-41
+43
 00:03:31,883 --> 00:03:34,210
 and they are having a trouble scaling that system
 
-42
+44
 00:03:34,634 --> 00:03:38,563
 and they are only at a  point of now where they can  handle 7 transactions a second
 
-43
+45
 00:03:38,850 --> 00:03:45,265
 and The world global finance handles thousands if not tens of thousands
 , hundreds of thousands of transactions every second
 
-44
+46
 00:03:45,290 --> 00:03:50,361
-if you includes  credit card swipes and trades and securities etc,etc.
+if you includes  credit card swipes and interest, trades and securities etc,etc.
 
-45
+47
 00:03:50,386 --> 00:03:54,266
 I am not yet convinced the  private block chain is anything new
 
-46
+48
 00:03:54,291 --> 00:03:59,968
 It's probably a tool to help  information sharing  between Banks
 
-47
+49
 00:03:59,993 --> 00:04:10,896
-But then , if you consider the infomation sharing has to be associated with common codes of business practise.
+But then , if you consider the information sharing has to be associated with common codes of business practice.
 
-48
+50
 00:04:10,921 --> 00:04:17,917
 then you also have to consider that it is a  route towards cartelization of the   banking sector
 
-49
+51
 00:04:17,942 --> 00:04:21,791
 and in worse case scenario , it creates one bank system
 
-50
-00:04:21,816 --> 00:04:30,049
-at a high leve, I just kind-of  think it is  an industry  grapling with a new technology  not really liking what they see
-
-51
-00:04:30,074 --> 00:04:33,581
-Sillion Valley vision used to be allow its evolving.
-
 52
+00:04:21,816 --> 00:04:30,049
+at a high level, I just kind-of  think it is  an industry  grappling 
+with a new technology  not really liking what they see
+
+53
+00:04:30,074 --> 00:04:33,581
+Silicon Valley vision used to be *allow its evolving*
+
+54
 00:04:33,606 --> 00:04:37,060
 is one in which future of money
 
+55
+00:04:37,085 --> 00:04:39,838
+looks nothing 5 or 10  years *from somewhere* the way it does now
+
+56
+00:04:39,863 --> 00:04:45,444
+the Eco-system is  different , participant is different.
+banks and central banks don’t play the role they currently do now
+
+57
+00:04:45,469 --> 00:04:48,614
+They are developing technology to empower a new world
+
+58
+00:04:48,639 --> 00:04:50,740
+Wall street doesn't think like that.
+
+59
+00:04:50,765 --> 00:04:53,726
+It could be quite disruptive to their business model
+
+60
+00:04:53,751 --> 00:04:59,315
+This is a network that you don’t get charged to move money on
+
+61
+00:04:59,340 --> 00:05:04,534
+and a big part of how banks and brokerages make money is they take a piece of a transaction
+
+62
+00:05:04,558 --> 00:05:09,268
+Silicon valley institutions have kind of looked upon  banking is going well
+
+63
+00:05:09,294 --> 00:05:16,929
+What do they really do ?
+They deal with information , They deal with databases
+They deal with risk
+
+64
+00:05:16,954 --> 00:05:19,189
+Really we kind-of do that as well
+
+65
+00:05:19,215 --> 00:05:23,179
+So why shouldn’t we do
+the business of banking
+ we are technology firm
+
+66
+00:05:23,203 --> 00:05:28,292
+Most of Silicon Valley of history ,  Wall Street has  been the customer.
+
+67
+00:05:28,318 --> 00:05:31,718
+But I think in the past decade ,
+
+68
+00:05:31,743 --> 00:05:37,020
+going back to maybe the late  90's  or early part of 2000's
+
+69
+00:05:37,045 --> 00:05:44,060
+a lot of entrepreneurs and really entrepreneurs are
+aware these things starts and VCs tend to follow
+
+70
+00:05:44,085 --> 00:05:49,784
+started to see Wall Street as an industry that they could compete with
+
+71
+00:05:49,809 --> 00:05:54,348
+Banks are   always being technology firms they have never not been technology firms
+
+72
+00:05:54,373 --> 00:05:58,045
+the only difference really is that banks are technology firms
+
+73
+00:05:58,070 --> 00:06:01,536
+who take risk and the after  a while
+
+74
+00:06:01,561 --> 00:06:05,758
+are getting trouble for taking that risk and suffered with consequences.
+
+75
+00:06:05,783 --> 00:06:08,797
+a lot people use the example Uber and AirBnB
+
+76
+00:06:08,822 --> 00:06:13,709
+And the example there is  , they wanted to be innovative
+
+77
+00:06:13,734 --> 00:06:18,829
+they went out and  broke a few rules 
+busted up some china and china shop and ask for forgiveness later
+
+78
+00:06:18,854 --> 00:06:23,810
+Well that's one  thing if you are taking on Taxi Cab commission of a town somewhere
+
+79
+00:06:23,901 --> 00:06:28,845
+that's  another thing if you are taking on the  Hotel Authority of  municipality somewhere
+
+80
+00:06:28,870 --> 00:06:32,125
+If you are taking on Central bank or Federal Reserve
+
+81
+00:06:32,150 --> 00:06:35,061
+If you are taking on the equivalent of Security and Exchange commission
+
+82
+00:06:35,086 --> 00:06:38,347
+And you just gonna decide  not play by the rules
+
+83
+00:06:38,372 --> 00:06:43,940
+you just gonna decide to break the law 
+where they  have both criminal and civil  ability co** to hold your account
+
+84
+00:06:43,965 --> 00:06:46,253
+That's a much much bigger issue.
+
+85
+00:06:46,280 --> 00:06:51,295
+The idea just deciding to break the rules *up until* entire financial services
+is frankly naive.
+
+86
+00:06:51,320 --> 00:06:54,341
+I think that there  changes are afoot in society.
+
+87
+00:06:54,366 --> 00:07:01,461
+that are actually a  begging for these technologies 
+to get to  the point  where we can  actually build stuff  with them
+
+88
+00:07:04,775 --> 00:07:12,608
+Bitcoin and blockchain technologies are
+waiting for a killer app or a series of killer apps
+
+89
+00:07:12,633 --> 00:07:20,070
+that will make it obvious to people why this technology really matters
+
+90
+00:07:21,192 --> 00:07:26,565
+there's one vision future which either be open system like bitcoin and ethererum
+
+91
+00:07:26,590 --> 00:07:31,198
+or the closed systems being developed banks and  governments
+
+92
+00:07:31,223 --> 00:07:37,365
+I think there is another vision of future
+ in which systems can  exist along side each other
+
+93
+00:07:37,390 --> 00:07:44,146
+and interact with each other depending on
+what somebody wants to do with their money
+
+94
+00:07:48,303 --> 00:07:53,766
+Change from one economy to another
+
+95
+00:07:53,840 --> 00:07:59,197
+is likely to be   incrediblly painful when we get the other side
+It will better.

@@ -61,7 +61,7 @@ people were thinking
 
 14
 00:01:29,471 --> 00:01:34,375
-****travels through water
+travels through water   wave 
 so what the light waves travel through
 
 15
@@ -134,8 +134,8 @@ that we see on the World wide web
 30
 00:02:48,098 --> 00:02:54,670
 The end of the day , it's kind-of fabric for
-**** you could almost
-describe it as a new Internet Infrastructure
+****what you could almost
+describe it as being a new Internet Infrastructure
 
 31
 00:02:54,695 --> 00:02:57,289
@@ -188,7 +188,7 @@ So there is a value being created by the  mining that we are doing.
 
 43
 00:03:40,396 --> 00:03:44,847
-THe biggest differences that ethererum produces mines
+THe biggest difference is that ethererum produces mines
 
 44
 00:03:44,872 --> 00:03:50,647
@@ -245,7 +245,7 @@ in that , you govern through smart contracts,
 55
 00:04:38,129 --> 00:04:43,841
 could be like some voting mechanism,
-could be voting by projection markets
+or could even be voting by projection markets
 or some other new thing
 
 56
@@ -271,7 +271,7 @@ so, let's just refer this to AI
 
 61
 00:05:07,564 --> 00:05:12,097
-and everyone just delegates the roles to robots and robots make decision for them
+and everyone just delegates the votes to robots and robots make decision for them
 
 62
 00:05:12,122 --> 00:05:16,432
@@ -363,7 +363,7 @@ that is one of the reason that this is  so valuable
 
 83
 00:06:57,537 --> 00:07:04,922
-you could look back and know that a transaction happened
+you could look back and know that a transaction happened and
 know that nobody could temper with that ,nobody could change it
 
 84
@@ -381,3 +381,4 @@ that those transactions wouldn't be valid
 87
 00:07:16,561 --> 00:07:22,167
 but it struck at the very core of what the Ethereum was supposed to be.
+
